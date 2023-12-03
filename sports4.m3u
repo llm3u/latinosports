@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKJoN8L.png" group-title="Sports", DSTV
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 
@@ -25,7 +27,7 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="Sports", KSA Sports 3
-https://edge.taghtia.com/sa/16.m3u8  
+https://edge.taghtia.com/sa/16.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e3yJ9QN.png" group-title="Sports", World Poker Tour Italy
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -36,32 +38,32 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Sports", Sport en France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports", Fubo Sports Network
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="Sports", TNT Sports 4 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Sports", SportsGrid
-https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/736QREy.png" group-title="Sports", Pac-12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qHNV0f5.png" group-title="Sports", ESTV
-https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports", MLB
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports", PGA Tour
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="Sports", Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z854PC3.png" group-title="Sports", MNB Sport
-https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LW77x7g.png" group-title="Sports", Pluto TV Sports UK
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56340779a738201b4ccfeac9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=725&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Sports", TR Sport
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Sports", M-Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cFTR4kC.png" group-title="Sports", MRTV Sports
-http://183.89.246.119:8881/play/a07q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Sports", W14DK-D5
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Sports", Lax Sports Network TV
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="Sports", KSA Sports 3
+https://edge.taghtia.com/sa/16.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fmyakPG.png" group-title="Sports", Pluto TV Action Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3yJ9QN.png" group-title="Sports", World Poker Tour Italy
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agc0IZF.png" group-title="Sports", SSC Action Waleed
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
@@ -96,13 +98,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCXl0rq.png" group-title="Sports", CampusLore
 https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2nVIjho.png" group-title="Sports", DT Play
-https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" group-title="Sports", Nitro Circus
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports", Racing.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports", Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auR0Mi6.png" group-title="Sports", TVS Classic Sports
@@ -132,14 +128,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="Sports", TVS Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports", Insight TV
-https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBv4p5K.png" group-title="Sports", Fight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b0f2237a6ff45d16c3f9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=726&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="Sports", JOJ Sport
-https://st01-1.iptv.joj.sk/110-tv-pc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="Sports", Idman TV
 http://109.205.166.68/server124/idman_az/index.m3u8
@@ -149,9 +139,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CZ2wQig.png" group-title="Sports", Sports Connect
 https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports", Contacto Deportivo
-https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports", Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -165,17 +152,11 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="Sports", Turf Movil
 https://janus.tvturf.cl/playlist/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Sports", A Spor
-https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sports", Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Sports", Stadium
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QleHNMl.png" group-title="Sports", KBP Sports
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports", Ovacion TV
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -189,20 +170,11 @@ https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Sports", CnAr Deportes
 https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Sports", CRTV
-https://vdo.panelstreaming.live:3058/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="Sports", QazSport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Sports", Turkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports", NBA TV
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports", ACC Network
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Sports", ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
@@ -240,21 +212,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlis
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="Sports", TNT Sports 5 Brazil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xB6mLeg.png" group-title="Sports", Pluto TV Surf Germany
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="Sports", KSA Sports 2
 https://edge.taghtia.com/sa/10.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Sports", World of Freesports
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports", beIN SPORTS XTRA
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
-
-
-
-
-
-
 
